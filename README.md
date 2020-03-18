@@ -17,3 +17,10 @@ A collection of useful notes for DL in NLP Spring 2020
 #### Negative sampling
    - http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf (negative sampling paper)
    - http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/ 
+
+## CNN for NLP
+   - https://www.youtube.com/watch?v=EAJoRA0KX7I (Lecture on introduction to CNN)
+   
+   - http://www.jmlr.org/papers/volume12/collobert11a/collobert11a.pdf
+   - https://arxiv.org/abs/1702.01923
+   - https://www.aclweb.org/anthology/D14-1181.pdf
